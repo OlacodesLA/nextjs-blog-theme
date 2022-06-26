@@ -6,6 +6,7 @@ export default function SEO({ title, description }) {
       <title>Sharon Springs Schools</title>
       <meta name="description" content="Sharon Springs Schools" />
       <meta property="og:title" content="Sharon Springs Schools" />
+    <link rel="icon" href="../assets/favicon.ico" />
     </Head>
   );
 }
