@@ -3,9 +3,9 @@ import Head from 'next/head';
 export default function SEO({ title, description }) {
   return (
     <Head>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <meta property="og:title" content={title} />
+      <title>Sharon Springs Schools</title>
+      <meta name="description" content="Sharon Springs Schools" />
+      <meta property="og:title" content="Sharon Springs Schools" />
     </Head>
   );
 }
